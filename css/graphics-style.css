@@ -6,3 +6,9 @@
     padding: 10x 10x 10x 10x;
      display:inline-block;
 }
+}
+.online{
+  background-color:white;
+  color:black;
+  padding: 5px 5px 5px 5px;
+}
