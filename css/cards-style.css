@@ -1,7 +1,7 @@
 
 
 .card1{
-    background-color:#66ffd9;
+    background-color:#33adff;
      height:600px;
     width:500px;
     border:solid black 2px;
@@ -17,8 +17,8 @@
 
 }
 .image{
-    width:30px;
-    height:30px;
+    width:50px;
+    height:50px;
     display:inline-block;
 }
 .btn{
