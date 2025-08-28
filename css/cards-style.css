@@ -3,6 +3,7 @@
 .card1{
     background-color:#33adff;
     width:500px;
+     height:750px;
     border:solid black 2px;
     text-align:center;
     padding: 10x 10x 10x 10x;
@@ -31,6 +32,7 @@
 }
 .card2{
     width:500px;
+    height:750px;
     background-color:#33adff;
     border:solid black 2px;
     text-align: center;
