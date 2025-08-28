@@ -1,7 +1,7 @@
 # online courses cards🖥️
 
 Welcome To our Project <u>"Course Cards". </u>  
-COURSES: 1-Graphics Design
+COURSES: 1-Graphics Design &nbsp;&nbsp;&nbsp;
          2-Game Developement
 
 ![cards_page](".\images\cards-page.png")
