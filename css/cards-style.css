@@ -6,6 +6,16 @@
     padding: 10x 10x 10x 10x;
      display:inline-block;
 }
+.card2{
+    background-color:#33adff;
+    height:700px;
+    width:500px;
+    border:solid black 2px;
+    text-align: center;
+    padding: 10x 10x 10x 10x;
+     display:inline-block;
+
+}
 .online{
   background-color:cornflowerblue;
   color:white;
@@ -28,4 +38,9 @@
 }
 .btn:hover{
     background-color:gray;
+}
+.image2{
+    width:300px;
+    height:100px;
+    display:inline-block;
 }
