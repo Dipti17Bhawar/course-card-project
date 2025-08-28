@@ -9,8 +9,6 @@ COURSES: 1-Graphics Design</br>
 ## Contributors
 
 <a href="https://github.com/Dipti17Bhawar/course-card-project.git">
-<img src="https://contrib.rocks/image?repo=sakshi-nande/ICP-13-html-github-project-online-quiz-system" />
+<img src="https://github.com/Dipti17Bhawar/course-card-project/graphs/contributors" />
 </a>
 
- 
-</a>
