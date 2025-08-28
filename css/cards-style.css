@@ -1,5 +1,8 @@
+
+
 .card1{
     background-color:#66ffd9;
+     height:600px;
     width:500px;
     border:solid black 2px;
     text-align: center;
@@ -32,7 +35,7 @@
 }
 .card2{
     background-color:#33adff;
-    height:700px;
+    height:650px;
     width:500px;
     border:solid black 2px;
     text-align: center;
@@ -57,4 +60,7 @@
     border-radius:5px;
     margin:10px 20px 30px 40px;
 
+}
+.btn2:hover{
+    background-color:gray;
 }
