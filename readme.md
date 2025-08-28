@@ -9,6 +9,6 @@ COURSES: 1-Graphics Design</br>
 ## Contributors
 
 <a href="https://github.com/Dipti17Bhawar/course-card-project/graphs/contributors">
-<img src="https://github.com/Dipti17Bhawar" />
+<img src=".\images\contribution.png" />
 </a>
 
