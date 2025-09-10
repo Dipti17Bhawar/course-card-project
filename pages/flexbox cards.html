@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>cards using flexbox</title>
+        <style>
+            .card-container{
+                height:700px;
+                width:600px;
+                background-color:white;
+                border: solid 2px black;
+                border-radius:20px;
+                margin:10px;
+                padding:10px;
+                display:inline-block;
+            }
+            .h1{
+                color:black;
+                text-align:center;
+                font-size: 50px;
+             }
+            .h3{
+                color:black;
+                text-align: center;
+            }
+            .img{
+                height:100px;
+                width:100px;
+                margin:10px;
+                padding:10px;
+            }
+             .flexbox1{
+                height:150px;
+                width:600px;
+                background-color:darkcyan;
+               display:flex;
+                border:solid 3px black; 
+                flex-direction: row;
+               justify-content:center;
+        
+
+            }
+            .flextext1{
+                color:white;
+                text-align: center;
+            }
+            .flextext2{
+                color:white;
+                background-color:darkcyan;
+                border:solid black 2px;
+                position:relative;
+                top:-190px;
+                height: 100px;
+                width:60px;
+                margin:10px;
+                padding:10px;
+                border-radius:20% 20% 50% 50%;
+            }
+
+            .flexbox2{
+                height: 60px;
+                width:550px;
+                background-color:darkcyan;
+                display:flex;
+                border:solid 3px black;
+                margin:10px;
+                padding:10px;
+                flex-direction: row;
+               justify-content:space-between;
+            }
+            .btn{
+             width:150px;
+             height:30px;
+              background-color:#0084ff;
+              color:white;
+             border-radius:5px;
+             margin:10px ;
+             padding:4px;
+
+             }
+            .btn:hover{
+             background-color:#b3daff;
+            }
+           .contact{
+            color:white;
+            margin:10px ;
+           }
+            .web{
+             color:white;
+             margin:10px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div class="card-container">
+            <h1 class="h1">ONLINE</br>COURSES</h1>
+            <h3 class="h3"> EDUCATION WITHOUT LIVING HOME</h3></br>
+            <div class="flexbox1">
+             <h3 class="flextext1">We are offering comprehensive courses to help you prepare</br>for competitive exams,do homework,and develope skills.</br> Start:📅23 September 2025</br> Time:⏰6:00PM to 7:00PM</br></h3>
+             <h3 class="flextext2">UP TO</br>40%</br> OFF</h3>
+             </div>
+            </br> </br>
+            <img src="C:\Users\Dipti Bhawar\Downloads\download (6).jpeg" alt="Biology" class="img"/>
+            <img src="C:\Users\Dipti Bhawar\Downloads\download (5).jpeg" alt="Chemistry" class="img"/>
+            <img src="C:\Users\Dipti Bhawar\Downloads\download (3).jpeg" alt="Physics" class="img"/>
+            <img src="C:\Users\Dipti Bhawar\Downloads\download (7).jpeg" alt="English" class="img"/></br> </br> 
+            <div class="flexbox2">
+                <a href=".\pages\graphics-contact.html"><button class="btn">Know More</button> </a>
+                <a href="8177927498" class="contact">+918177927498 </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                 <a href="#" class="web">www.online.course </a>
+            </div>
+        </div>
+    </body>
+</html>
